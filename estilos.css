@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 18px;
+    width: 900px;
+}
+
+h2 {
+    font-size: 25px;
+    border: 38px;
+    font-family: tahoma, Helvetica, sans-serif;
+}
+
+#imagen1 {
+    height: 100%;
+    width: 50%;
+}
+
+#titulo {
+    text-align: center;
+    font-family: Tahoma, Helvetica, sans-serif;
+    font-size: 37px;
+    border: 46px;
+    color: #000000;
+
+}
+ 
+input {
+    display: block;
+}
+
+p {
+    font-size: 18px;
+    border: 27px;
+    color: #333;
+}
